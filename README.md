@@ -1,2 +1,2 @@
-# to-do-it
-React-Redux Todo App
+# React-Redux-Webpack-Starter
+React + Redux + Webpack + Babel + ES2015
